@@ -87,3 +87,4 @@ while True:
         while calc_hand(dealer) <= 16:
             dealer.append(cards.pop())
 ##test
+##test
